@@ -1,19 +1,43 @@
 criaCartao(
     'Biologia',
     'Qual é a importância da fotossíntese?',
-    'A fotossíntese é o processo pela qual as plantas, algas e algumas bactérias transformam a energia solar em energia química, produzindo oxigênio e glicose.'
+    'A fotossíntese é o processo pela qual as plantas e bactérias transformam a energia solar em energia química.'
+)
+
+criaCartao(
+    'Geografia',
+    'O que é um meridiano?',
+    'Linha imaginária que vai do polo norte ao polo sul.'
 )
 
 criaCartao(
     'Biologia',
     'Qual é a diferença entre célula procarionte e eucarionte?',
-    'Células procariontes não possuem núcleo definido e organelas membranosas, enquanto células eucariontes possuem um núcleo delimitado por membrana e diversas organelas membranosas.'
+    'Células procariontes não possuem núcleo definido, enquanto células eucariontes possuem um núcleo delimitado por membrana.'
+)
+
+criaCartao(
+    'Geografia',
+    'O que são recursos naturais?',
+    'Materiais fornecidos pela natureza, como água, minerais e florestas.'
 )
 
 criaCartao(
     'Biologia',
-    'O que é genética?',
-    'Genética é o estudo dos genes, que são unidades de informação hereditária presentes no DNA. Ela investiga como os genes são transmitidos de geração em geração e como influenciam as características dos organismos.'
+    'O que são genes?',
+    'São unidades de informação hereditária presentes no DNA.'
+)
+
+criaCartao(
+    'Geografia',
+    'O que são recursos naturais?',
+    'Materiais fornecidos pela natureza, como água, minerais e florestas.'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é um autótrofo?',
+    'Organismo que produz seu próprio alimento.'
 )
 
 criaCartao(
